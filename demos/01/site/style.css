@@ -6,6 +6,10 @@ html {
 	box-sizing: inherit;
 }
 
+.hidden {
+	display: none;
+}
+
 body {
 	font-family: helvetica;
 	margin:  0;
